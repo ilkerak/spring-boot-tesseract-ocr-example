@@ -13,3 +13,5 @@ Tesseract trained data files in the resource folder.
 - 'mvn clean package'
 
 - 'java -jar ocr-demo-1.0.0.jar -DTESSERACT_DATA_PATH=<i>TESSDATAFOLDERPATH</i>'
+
+- open on browser: http://localhost:8080/
